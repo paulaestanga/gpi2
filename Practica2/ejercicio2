@@ -1,0 +1,57 @@
+    1  29/01/20 11:47:40 exit
+    2  12/02/20 14:28:47 arduino
+    3  12/02/20 14:28:58 sudo apt install arduino
+    4  12/02/20 14:17:06 sudo passwd
+    5  12/02/20 14:18:03 cd Descargas/
+    6  12/02/20 14:18:05 ls
+    7  12/02/20 14:18:27 tar -xzf android-studio-ide-191.6010548-linux.tar.gz 
+    8  12/02/20 14:19:50 ./studio.sh
+    9  12/02/20 14:19:58 cd
+   10  12/02/20 14:20:45 cd android-studio
+   11  12/02/20 14:21:40 cd Descargas/
+   12  12/02/20 14:21:45 cd android-studio
+   13  12/02/20 14:21:51 cd bin
+   14  12/02/20 14:22:05 ./studio.sh
+   15  12/02/20 15:26:37 un zip Bare-Arduino-Project-master.zip 
+   16  12/02/20 15:26:53 unzip Bare-Arduino-Project-master.zip 
+   17  12/02/20 15:47:21 cd -
+   18  12/02/20 15:47:27 - cd
+   19  12/02/20 15:47:35 make
+   20  12/02/20 15:47:58 make -f Makefile-Linux.mk 
+   21  12/02/20 15:48:05 make all
+   22  12/02/20 15:48:27 gcc -avr
+   23  12/02/20 15:49:07 avr-gcc 8.3.0
+   24  12/02/20 15:49:23 sudo apt install avr-gcc 8.3.0
+   25  18/02/20 18:48:37 make
+   26  18/02/20 18:48:44 make all
+   27  18/02/20 18:49:16 sudo apt install avr-gcc 8.3.0
+   28  18/02/20 18:51:35 C++17
+   29  18/02/20 18:52:22 make
+   30  18/02/20 18:52:24 make all
+   31  18/02/20 18:52:31 cli
+   32  18/02/20 19:20:52 make all
+   33  18/02/20 19:20:58 sudo apt install avr-gcc 8.3.0
+   34  19/02/20 07:24:29 sudo apt-get install gcc-avr binutils avr-libc avrdude
+   35  19/02/20 07:30:07 sudo add-apt-repository ppa:git-core/ppa
+   36  19/02/20 07:30:48 sudo apt-get update && sudo apt-get upgrade
+   37  19/02/20 07:31:53 sudo apt-get install git arduino
+   38  19/02/20 07:34:11 sudo apt-get install gcc-avr binutils avr-gcc -v 
+   39  19/02/20 07:34:24 avrdude -v
+   40  19/02/20 07:35:12 cd ~
+   41  19/02/20 07:36:00 git clone https://github.com/ladislas/Bare-Arduino-Project MyArduinoProject
+   42  19/02/20 07:36:17 cd MyArduinoProject
+   43  19/02/20 07:36:33 git submodule update --init --recursive
+   44  19/02/20 07:37:16 git remote set-url origin https://github.com/{{paulaestanga}}/MyArduinoProject
+   45  19/02/20 07:37:41 git push --set-upstream origin master
+   46  19/02/20 07:39:18 git remote set-url origin https://github.com/{{estanga.116171@e.unavarra.es}}/MyArduinoProject
+   47  19/02/20 07:39:21 git push --set-upstream origin master
+   48  19/02/20 07:57:20 brew install python python@2
+   49  19/02/20 07:57:42 sudo apt install linuxbrew-wrapper
+   50  19/02/20 07:58:17 brew install python python@2
+   51  19/02/20 08:00:33 $ pip install pyserial & pip2 install pyserial
+   52  19/02/20 08:00:48 sudo apt install python-pip
+   53  19/02/20 08:01:13 cd src
+   54  19/02/20 08:01:16 cd FooProject/
+   55  19/02/20 08:01:27 cd MyArduinoProject
+   56  19/02/20 08:01:56 cp ../../Makefile-Linux.mk ./Makefile
+   57  19/02/20 08:55:53 history >> ejercicio2
