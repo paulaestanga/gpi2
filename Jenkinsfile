@@ -4,7 +4,7 @@ pipeline {
             steps {
                 sh 'mvn -B -DskipTests clean package'
 
-		dir('PracticaArduino/Arduino') {
+		dir('MyArduinoProject') {
 			sh 'make -f Makefile-Linux.mk' 
 		}
 
@@ -13,7 +13,7 @@ pipeline {
 			sh 'mvn site'
 		}
 
-		dir('PracticaAndroid') {
+		dir('AndroidStudioProjects/MyApplication') {
 			sh './gradlew tasks'
 			sh './gradlew check'
 		}
